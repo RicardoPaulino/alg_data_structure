@@ -14,9 +14,11 @@ void selection_sort(int arr[], int n)
                 min_idx = j;
             }
         }
-        aux = arr[min_idx];
-        arr[min_idx] = arr[i];
-        arr[i] = aux;
+        if(i != min_idx){
+            aux = arr[min_idx];
+            arr[min_idx] = arr[i];
+            arr[i] = aux;
+        }
     }
 }   
 
