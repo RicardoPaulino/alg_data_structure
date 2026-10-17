@@ -68,6 +68,17 @@ public class AlgSorting
         PrintArray(arr);
     }
 
+    public static void MergeSort(int[] arr, int left, int right)
+    {
+        if (left < right)
+        {
+            int mid = left + (right - left) / 2;
+            MergeSort(arr, left, mid);
+            MergeSort(arr, mid + 1, right);
+            Merge(arr, left, mid, right);
+        }
+    }
+
     public static void PrintArray(int[] arr)
     {
         foreach (int item in arr)
