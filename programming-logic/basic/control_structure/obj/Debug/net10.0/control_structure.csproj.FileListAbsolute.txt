@@ -1,0 +1,15 @@
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/bin/Debug/net10.0/control_structure
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/bin/Debug/net10.0/control_structure.deps.json
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/bin/Debug/net10.0/control_structure.runtimeconfig.json
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/bin/Debug/net10.0/control_structure.dll
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/bin/Debug/net10.0/control_structure.pdb
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/obj/Debug/net10.0/control_structure.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/obj/Debug/net10.0/control_structure.AssemblyInfoInputs.cache
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/obj/Debug/net10.0/control_structure.AssemblyInfo.cs
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/obj/Debug/net10.0/control_structure.csproj.CoreCompileInputs.cache
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/obj/Debug/net10.0/control_structure.sourcelink.json
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/obj/Debug/net10.0/control_structure.dll
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/obj/Debug/net10.0/refint/control_structure.dll
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/obj/Debug/net10.0/control_structure.pdb
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/obj/Debug/net10.0/control_structure.genruntimeconfig.cache
+/home/ricardo/src/alg_data_structure/programming-logic/basic/control_structure/obj/Debug/net10.0/ref/control_structure.dll
