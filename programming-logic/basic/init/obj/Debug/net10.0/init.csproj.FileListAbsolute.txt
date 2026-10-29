@@ -1,0 +1,15 @@
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/bin/Debug/net10.0/init
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/bin/Debug/net10.0/init.deps.json
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/bin/Debug/net10.0/init.runtimeconfig.json
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/bin/Debug/net10.0/init.dll
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/bin/Debug/net10.0/init.pdb
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/obj/Debug/net10.0/init.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/obj/Debug/net10.0/init.AssemblyInfoInputs.cache
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/obj/Debug/net10.0/init.AssemblyInfo.cs
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/obj/Debug/net10.0/init.csproj.CoreCompileInputs.cache
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/obj/Debug/net10.0/init.sourcelink.json
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/obj/Debug/net10.0/init.dll
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/obj/Debug/net10.0/refint/init.dll
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/obj/Debug/net10.0/init.pdb
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/obj/Debug/net10.0/init.genruntimeconfig.cache
+/home/ricardo/src/alg_data_structure/programming-logic/basic/init/obj/Debug/net10.0/ref/init.dll
