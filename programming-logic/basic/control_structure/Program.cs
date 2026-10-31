@@ -1,12 +1,17 @@
 ﻿using System;
+using BasicControlStructure;
 
-Console.WriteLine("qual o numero de elementos do vetor?");
-int itensLength = int.Parse(Console.ReadLine(), System.Globalization.CultureInfo.InvariantCulture);
-double[] itens = new double[itensLength];
-for (int i = 0; i < itensLength; i++)
-{
-    Console.WriteLine($"Digite o {i + 1}º elemento do vetor:");
-    itens[i] = double.Parse(Console.ReadLine(), System.Globalization.CultureInfo.InvariantCulture);
-}
-double media = BasicControlStructure.MediaAritmetica.CalcMediaAritmetica(itens);
-Console.WriteLine($"A média aritmética dos elementos do vetor é: {media.ToString("F2")}");
+var trocador = new TrocaValoresAeB();
+
+int valorA = 10;
+int valorB = 20;
+
+Console.WriteLine($"Valores originais: A = {valorA}, B = {valorB}");
+
+// Executando o método e desestruturando a tupla retornada diretamente em novas variáveis
+var (novoA, novoB) = trocador.TrocarValoresDeAparaB(valorA, valorB);
+
+Console.WriteLine($"Valores trocados: A = {novoA}, B = {novoB}");
+
+// Note que as variáveis originais continuam intactas (Imutabilidade)
+Console.WriteLine($"Variáveis originais preservadas: A = {valorA}, B = {valorB}");
