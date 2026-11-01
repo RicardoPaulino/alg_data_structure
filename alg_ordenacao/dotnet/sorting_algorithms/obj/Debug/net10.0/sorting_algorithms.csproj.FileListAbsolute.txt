@@ -1,0 +1,15 @@
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/bin/Debug/net10.0/sorting_algorithms
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/bin/Debug/net10.0/sorting_algorithms.deps.json
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/bin/Debug/net10.0/sorting_algorithms.runtimeconfig.json
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/bin/Debug/net10.0/sorting_algorithms.dll
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/bin/Debug/net10.0/sorting_algorithms.pdb
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/obj/Debug/net10.0/sorting_algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/obj/Debug/net10.0/sorting_algorithms.AssemblyInfoInputs.cache
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/obj/Debug/net10.0/sorting_algorithms.AssemblyInfo.cs
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/obj/Debug/net10.0/sorting_algorithms.csproj.CoreCompileInputs.cache
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/obj/Debug/net10.0/sorting_algorithms.sourcelink.json
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/obj/Debug/net10.0/sorting_algorithms.dll
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/obj/Debug/net10.0/refint/sorting_algorithms.dll
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/obj/Debug/net10.0/sorting_algorithms.pdb
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/obj/Debug/net10.0/sorting_algorithms.genruntimeconfig.cache
+/home/ricardo/src/alg_data_structure/alg_ordenacao/dotnet/sorting_algorithms/obj/Debug/net10.0/ref/sorting_algorithms.dll
