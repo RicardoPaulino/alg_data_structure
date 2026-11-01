@@ -1,0 +1,15 @@
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/bin/Debug/net10.0/leetcode
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/bin/Debug/net10.0/leetcode.deps.json
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/bin/Debug/net10.0/leetcode.runtimeconfig.json
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/bin/Debug/net10.0/leetcode.dll
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/bin/Debug/net10.0/leetcode.pdb
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/obj/Debug/net10.0/leetcode.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/obj/Debug/net10.0/leetcode.AssemblyInfoInputs.cache
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/obj/Debug/net10.0/leetcode.AssemblyInfo.cs
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/obj/Debug/net10.0/leetcode.csproj.CoreCompileInputs.cache
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/obj/Debug/net10.0/leetcode.sourcelink.json
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/obj/Debug/net10.0/leetcode.dll
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/obj/Debug/net10.0/refint/leetcode.dll
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/obj/Debug/net10.0/leetcode.pdb
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/obj/Debug/net10.0/leetcode.genruntimeconfig.cache
+/home/ricardo/src/alg_data_structure/programming-logic/leetcode/obj/Debug/net10.0/ref/leetcode.dll
